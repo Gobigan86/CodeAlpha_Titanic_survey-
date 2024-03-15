@@ -12,7 +12,7 @@ Data Collection & Processing
 
 [ ]
 # load the data from csv file to Pandas DataFrame
-titanic_data = pd.read_csv('/content/train.csv')
+titanic_data = pd.read_csv("train.csv")
 [ ]
 # printing the first 5 rows of the dataframe
 titanic_data.head()
